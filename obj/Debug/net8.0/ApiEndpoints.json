@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "JWTTestproj.Controllers.UserAuthController",
+    "Method": "Authentication",
+    "RelativePath": "UserAuth/Authenticate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userModel",
+        "Type": "JWTTestproj.Models.UserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JWTTestproj.Controllers.UserAuthController",
+    "Method": "GetAllUsers",
+    "RelativePath": "UserAuth/GetALlUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
